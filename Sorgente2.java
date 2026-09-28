@@ -1,0 +1,1 @@
+// Versione originale sorgente2
