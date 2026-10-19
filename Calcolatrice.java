@@ -11,4 +11,8 @@ public class Calcolatrice {
     public double divisione( int a,int b){
         return a/b;
     }
+    //una funzione per la moltiplicazione
+    public int moltiplicazione(int a, int b){
+        return a*b;
+    }
 }
