@@ -4,4 +4,9 @@ public class Calcolatrice {
     public int somma(int a, int b) {
         return a + b;
     }
+
+	public int sottrazioneee(int a, int b){
+	return a-b;}
+
+
 }
