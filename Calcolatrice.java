@@ -8,5 +8,7 @@ public class Calcolatrice {
 	public int sottrazioneee(int a, int b){
 	return a-b;}
 
-
+    public double divisione( int a,int b){
+        return a/b;
+    }
 }
