@@ -12,7 +12,7 @@ public class Calcolatrice {
         return a/b;
     }
     //una funzione per la moltiplicazione
-    public double moltiplicazione(double a, double b){
+    public int moltiplicazione(int a, int b){
         return a*b;
     }
 }
